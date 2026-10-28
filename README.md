@@ -18,10 +18,10 @@
 **CamCapture v4.2** is a cross-platform, automated Bash script engineered for cybersecurity awareness and authorized penetration testing. It beautifully demonstrates how social engineering templates integrate with local PHP servers and automated tunneling tools (Ngrok & Cloudflare) to securely analyze target device indicators like IP addresses, camera accessibility, and precise GPS telemetry.
 
 <p align="left">
-  <img src="https://github.com/adarshvarma512/-CamCapture/blob/master/img/img_01.png" alt="Cyber Security Concept" width="500px" style="border-radius: 8px;"/>
+  <img src="https://github.com/adarshvarma512/CamCapture/blob/master/img/img_01.png" alt="repo_image" width="500px" style="border-radius: 8px;"/>
 </p>
 <p align="right">
-  <img src="https://github.com/adarshvarma512/-CamCapture/blob/master/img/img_02.png" alt="Cyber Security Concept" width="500px" style="border-radius: 8px;"/>
+  <img src="https://github.com/adarshvarma512/CamCapture/blob/master/img/img_02.png" alt="repo_image" width="500px" style="border-radius: 8px;"/>
 </p>
 
 ---
